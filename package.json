@@ -1,0 +1,16 @@
+{
+  "name": "unleash-cli",
+  "version": "1.0.0",
+  "description": "cli for unleash",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chisui/unleash-cli.git"
+  },
+  "author": "Philipp Dargel <philipp.dargel@neuland-bfi.de>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chisui/unleash-cli/issues"
+  },
+  "homepage": "https://github.com/chisui/unleash-cli#readme"
+}
